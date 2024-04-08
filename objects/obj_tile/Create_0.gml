@@ -1,0 +1,2 @@
+hovered = false;
+tower = noone;
